@@ -1,0 +1,19 @@
+BRIGHT FUTURES FOUNDATION — IMAGE REPLACEMENT GUIDE
+
+The photographs in images/programmes/ are realistic AI-generated illustrative placeholders for website layout testing. They are not documentary evidence of actual BFF activities or beneficiaries. Replace each file with an approved BFF photograph while keeping the exact filename to preserve the website links.
+
+Programme image filenames:
+second-chance-education-programme.jpg
+mentorship-for-success-initiative.jpg
+girls-leadership-programme.jpg
+youth-entrepreneurship-programme.jpg
+vocational-skills-development.jpg
+financial-literacy-programme.jpg
+agroecology-green-enterprise-programme.jpg
+community-wellbeing-programme.jpg
+environmental-conservation-initiative.jpg
+volunteer-for-change-network.jpg
+
+Logo: images/bff-logo-placeholder.svg is a temporary visible mark. Replace it with the official BFF logo using the same filename, or update the image path in the header of each page.
+
+OFFICIAL LOGO: The supplied Bright Futures Foundation logo is now installed at images/bff-logo.png and referenced by the website HTML pages.

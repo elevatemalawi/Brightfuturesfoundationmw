@@ -1,0 +1,24 @@
+BRIGHT FUTURES FOUNDATION WEBSITE UPDATE
+
+LOGO
+- Official logo file: images/bff-logo.png
+- Website header logo references should use this exact path.
+
+PROGRAMME PHOTOGRAPHS
+- Programme photographs are stored in images/programmes/.
+- Each photograph is now displayed alongside the programme it represents on programs.html.
+- The homepage also includes an automatically sliding programme gallery.
+
+TEAM CONTACTS
+- Team page displays the requested individual email address pattern.
+- These addresses are displayed as mailto links, but they must first be created as real mailboxes or aliases in the domain/email hosting control panel.
+- General contact: info@brightfuturesfoundation.mw
+
+FORMS
+- Donation and volunteer forms submit through FormSubmit to info@brightfuturesfoundation.mw, with the legacy Gmail addresses copied.
+- FormSubmit may require the mailbox owner to confirm the activation email the first time each form is used.
+- If the organisation still prefers Google Forms, provide the published Donate and Volunteer Google Form URLs so the website can embed the exact forms. No Google Form URL was supplied for this update.
+
+NEWS
+- Homepage and News & Videos page now use sliding news cards.
+- News cards appear when published items are added to content/news/index.json.
