@@ -1,0 +1,14 @@
+BRIGHT FUTURES FOUNDATION WEBSITE - IMAGE DEPLOYMENT
+
+This ZIP is packaged with the website files at the archive root.
+Upload/extract ALL files and folders together, keeping the folder structure unchanged.
+
+Important image folders:
+- images/bff-logo.png
+- images/community/
+- images/programmes/
+- images/team/
+
+Do not upload only the HTML files. The entire images folder must be uploaded to the same website root as index.html, programs.html and style.css.
+
+Image references use relative paths so they work when the complete site folder is hosted together.

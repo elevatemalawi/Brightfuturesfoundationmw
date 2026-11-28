@@ -38,7 +38,7 @@ fetch('content/news/index.json').then(r=>r.ok?r.json():[]).then(items=>{
   const host=document.getElementById(id); if(!host)return;
   if(!published.length)return; host.innerHTML='';
   published.forEach(item=>{const article=document.createElement('article');article.className='slide-card news';
-   if(item.image){const img=document.createElement('img');img.src=item.image;img.alt=item.title;img.loading='lazy';article.appendChild(img)}
+   if(item.image){const img=document.createElement('img');img.src=item.image;img.alt=item.title;img.loading='eager';article.appendChild(img)}
    const copy=document.createElement('div');copy.className='slide-card-copy';
    const tag=document.createElement('span');tag.className='tag';tag.textContent=item.category||'Update';copy.appendChild(tag);
    const h=document.createElement('h3');h.textContent=item.title;copy.appendChild(h);
