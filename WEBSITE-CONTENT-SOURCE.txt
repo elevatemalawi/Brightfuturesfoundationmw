@@ -1,0 +1,12 @@
+WEBSITE CONTENT SOURCE
+
+The About Us and Programmes pages have been aligned to ORGANISATION PROFILE JULY.docx supplied by the organisation. Programme names follow the document exactly. Programme descriptions are based on the objectives in that profile.
+
+Official logo asset: images/bff-logo.png
+Contact email: info@brightfuturesfoundation.mw
+
+Donation and volunteer forms continue to submit through FormSubmit to info@brightfuturesfoundation.mw and CC the other original addresses supplied: brightfuturesfoundationmw@gmail.com, chrissychawanda@gmail.com, and msukwainno@gmail.com. The first FormSubmit submission may require inbox activation.
+
+Individual team email links already present on the Team page have been preserved. The addresses are displayed as contact links; the mailboxes/aliases must exist with the email/domain administrator for delivery.
+
+Programme photos are illustrative placeholders and can be replaced while keeping their existing filenames.
